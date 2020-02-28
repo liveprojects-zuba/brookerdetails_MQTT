@@ -83,6 +83,6 @@
             return vm.names.length === 0;
         }
 
-        vm.names = eventsSrvc.getEvents();    */
+        vm.names = eventsSrvc.getEvents();*/
     }
 })();
