@@ -24,7 +24,7 @@
     ) {
         var vm = angular.extend(this, {
             names : []
-         });
+        });
 
         vm.channels = Array.apply(null, {
             length: 2
